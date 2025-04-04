@@ -1,0 +1,40 @@
+in java we have 4 type of condition
+
+1. if: in the if condition statement are can be more then 2 or 3
+   ex:
+             if(condition)
+               {
+                statement 1;
+                statement 2;
+               }
+
+2. if-else: in the if-else condition we have only two statement 
+   ex:
+              if(condition)
+                statement1;
+              else
+                statement2;
+
+3. if-else-if: in the condition of if-else-if we have 4 type are statement with three condition
+   ex:
+               if(condition)
+                 statement1;
+               else-if(condition)
+                 statement2;
+               else-if(condition)
+                 statement3;
+               else
+                 statement4;
+
+4. Nested if condition: in this condition are use when if condition in the if condition
+   ex:
+              if(condition)
+                 {
+                   if(condition)
+                      statement1;
+                   else
+                      statement2;
+}
+              else
+                statement3;
+  
