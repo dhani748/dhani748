@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Nautiyal</h1>
 
 <h3 align="center">
-Java Backend Developer • Spring Boot • Microservices • AI Enthusiast
+Software Developer • Spring Boot • Microservices • AI Enthusiast
 </h3>
 
 <p align="center">
