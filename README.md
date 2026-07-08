@@ -24,7 +24,7 @@ Building scalable backend systems, REST APIs, AI-powered applications, and real-
 
 🎓 Computer Science Graduate passionate about Backend Development and Software Engineering.
 
-💼 Former **Java Backend Developer Intern** at **Anantixia Pvt Ltd**
+💼 Former **Software Developer** at **Anantixia Pvt Ltd**
 
 🚀 Currently building scalable backend applications using Java, Spring Boot, PostgreSQL, Docker, Redis, and AI technologies.
 
