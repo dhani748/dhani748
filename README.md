@@ -11,7 +11,7 @@ Building scalable backend systems, REST APIs, and enterprise applications using 
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Building+Enterprise+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Software+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Building+Enterprise+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
