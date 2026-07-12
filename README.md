@@ -1,177 +1,311 @@
-<h1 align="center">Hi, I'm Dhananjay Nautiyal 👋</h1>
+<h1 align="center">
+  Hi 👋, I'm Dhananjay Nautiyal
+</h1>
 
 <h3 align="center">
 Java Backend Developer • Spring Boot • Microservices • AI Enthusiast
 </h3>
 
 <p align="center">
-Building scalable backend systems, REST APIs, AI-powered applications, and real-world software.
+Building scalable backend systems, REST APIs, and enterprise applications using modern Java technologies.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39D9FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;JWT+%7C+Redis+%7C+Docker;Building+AI-Powered+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Building+Enterprise+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhani748&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/dhani748?label=Followers&style=flat&color=blue" />
-<img src="https://img.shields.io/github/stars/dhani748?affiliations=OWNER&style=flat&color=yellow" />
-<a href="https://dhani748.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-View-black?style=flat&logo=vercel&logoColor=white"/></a>
+
+<a href="https://komarev.com/ghpvc/?username=dhani748">
+<img src="https://komarev.com/ghpvc/?username=dhani748&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+</a>
+
+<img src="https://img.shields.io/github/followers/dhani748?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/dhani748?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science Graduate, passionate about backend engineering and clean system design.
+🎓 Computer Science Graduate passionate about backend engineering, clean architecture, and scalable software development.
 
-💼 Software Development Intern @ **Anantixia Pvt Ltd**
+💼 Former **Software Development Intern** at **Anantixia Pvt. Ltd.**
 
-🚀 Building scalable backend systems with Java, Spring Boot, PostgreSQL, Docker, Redis, and exploring AI-powered applications.
+🚀 I enjoy building enterprise applications using Java, Spring Boot, PostgreSQL, Redis, Docker, JWT Authentication, and Microservices.
 
-**🔭 Current Projects**
-- 🤖 AI CRM Platform (HCP-CRM)
-- 💬 Astro Talk — Real-Time Chat App
-- 📺 Anime Watch — Anime Info & News Platform
-
-**🌱 Currently Learning**
-Spring Cloud • Kafka • Redis • Docker • Kubernetes • System Design
-
-**💬 Ask Me About**
-Java • Spring Boot • REST APIs • Microservices • SQL • JWT Authentication
+💡 I love solving real-world business problems through clean code and scalable system design.
 
 ---
 
-### 🚀 Tech Stack
+# 🔥 Currently Working On
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=java,js,ts,python" /></p>
+- 🤖 AI CRM Platform
+- 💬 Astro Talk (Real-Time Chat)
+- 📺 Anime Watch Platform
+- 📚 Spring Cloud & Distributed Systems
+- 🐳 Docker & Kubernetes
 
-**Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,maven"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/JPA-Hibernate-success?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/REST_API-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Swagger-API-success?style=for-the-badge"/>
+
 </p>
 
-**Database**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /></p>
+---
 
-**DevOps & Tools**
-<p><img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea,linux,maven" /></p>
+## 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+
+</p>
 
 ---
 
-### 📊 Skill Proficiency
+## ☁ DevOps & Tools
 
-```text
-Java           ████████████████████░░░░  85%
-Spring Boot    ██████████████████░░░░░░  78%
-REST APIs      ████████████████████░░░░  85%
-SQL / Postgres ████████████████░░░░░░░░  70%
-Docker         ██████████████░░░░░░░░░░  60%
-System Design  ████████████░░░░░░░░░░░░  50%
-```
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,idea,postman,maven"/>
+
+</p>
 
 ---
 
-### 🏗 Backend Expertise
+# 🏗 Backend Expertise
 
-REST API Development • Microservices Architecture • Spring Security • JWT Authentication • Database Design • Docker • Redis Caching • Kafka Messaging • API Documentation (Swagger) • CI/CD • Git Workflow
+- REST API Development
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- Microservices
+- Database Design
+- Hibernate / JPA
+- Docker
+- Redis Caching
+- Kafka (Learning)
+- CI/CD
+- Git Workflow
+- Clean Architecture
+- SOLID Principles
 
 ---
 
-### 🌟 Featured Projects
+# 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🤖 AI CRM Platform
 
-**💬 Astro Talk**
-Real-time messaging platform built with Spring Boot, secure auth, and scalable architecture.
-`Java` `Spring Boot` `JWT` `MySQL`
-🔗 [Repo](https://github.com/dhani748/astro-talk)
+AI-powered CRM platform with modern UI, authentication, dashboards, and intelligent workflow automation.
 
-</td>
-<td width="50%">
+**Tech Stack**
 
-**🤖 HCP-CRM**
-AI-powered CRM platform for streamlined customer relationship workflows.
-`TypeScript`
-🔗 [Repo](https://github.com/dhani748/HCP-CRM)
+`TypeScript` `React` `Node.js`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+🔗 **Repository**
 
-**💰 Smart Expense Analyzer**
-Personal finance app that tracks and analyzes expenses with detailed reports.
-`Java 21`
-🔗 [Repo](https://github.com/dhani748/smart-expense-analyzer-java21)
+https://github.com/dhani748/HCP-CRM
 
-</td>
-<td width="50%">
+---
 
-**📺 Anime Watch**
-Legal anime info & news platform with search, watch history, and responsive UI.
+## 💬 Astro Talk
+
+Real-time chat application featuring authentication, messaging, and scalable backend architecture.
+
+**Tech Stack**
+
 `Java`
-🔗 [Repo](https://github.com/dhani748/anime-watch)
 
-</td>
-</tr>
-</table>
+`Spring Boot`
 
----
+`JWT`
 
-### 📈 GitHub Analytics
+`MySQL`
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhani748&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhani748&layout=compact&theme=radical&hide_border=true"/>
-</p>
+🔗 **Repository**
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhani748&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhani748&theme=redial&hide_border=true"/>
-</p>
+https://github.com/dhani748/astro-talk
 
 ---
 
-### 🏆 GitHub Achievements
+## 📺 Anime Watch
+
+Modern anime platform with trending anime, search, news, and responsive user experience.
+
+**Tech Stack**
+
+`React`
+
+`JavaScript`
+
+`REST APIs`
+
+🔗 **Repository**
+
+https://github.com/dhani748/anime-watch
+
+---
+
+## 💰 Smart Expense Analyzer
+
+Expense management system with analytics, reports, and financial insights.
+
+**Tech Stack**
+
+`Java 21`
+
+🔗 **Repository**
+
+https://github.com/dhani748/smart-expense-analyzer-java21
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhani748&theme=radical&margin-w=15&no-frame=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhani748&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhani748&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dhani748&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 📫 Connect With Me
+# 📈 Contribution Graph
 
 <p align="center">
-<a href="https://linkedin.com/in/dhananjay-nautiyal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/dhani748"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:dhananjaynautiyal203@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://dhani748.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhani748&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-### 💡 Fun Fact
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhani748&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Spring Cloud
+- Apache Kafka
+- Kubernetes
+- System Design
+- Design Patterns
+- Distributed Systems
+- AI Integration
+- Cloud Computing
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/dhananjay-nautiyal">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="https://github.com/dhani748">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<a href="mailto:dhananjaynautiyal203@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://dhani748.github.io/portfolio">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
 
 ```java
-while (alive) {
-    learn();
-    build();
-    improve();
-    repeat();
+public class Developer {
+
+    public static void main(String[] args) {
+
+        while (alive) {
+
+            learn();
+
+            build();
+
+            improve();
+
+            shareKnowledge();
+
+        }
+
+    }
+
 }
 ```
 
-<p align="center">
-⭐ Thanks for visiting my profile! If you like my projects, consider giving them a ⭐
-</p>
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you enjoy my projects, consider giving them a ⭐
+
+</h3>
