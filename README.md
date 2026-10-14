@@ -21,29 +21,8 @@
 
 ## 🖥️ System Info
 
-```yaml
-dhananjay@dev-machine
-------------------------
-Subject      : Dhananjay Nautiyal
-Role         : Java Backend Developer
-Company      : Anantixia Pvt. Ltd.
-Origin       : India
-Education    : B.Tech, Computer Science
-Status       : Open to opportunities
-Toolchain    : Java · Spring Boot · Docker · Git
+![System info glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/system-info-card.svg)
 
-Core Lang    : Java, JavaScript, TypeScript, Python, Kotlin
-Core Backend : Spring Boot, Spring Security, JPA/Hibernate, REST APIs
-Core DB      : PostgreSQL, MySQL, MongoDB, Redis
-Core Infra   : Docker, Linux, Git, CI/CD, Kafka, Kubernetes (learning)
-
-Contact
-  Gmail      : dhananjaynautiyal203@gmail.com
-  Portfolio  : dhani748.github.io/portfolio
-  LinkedIn   : linkedin.com/in/dhananjay-nautiyal
-  GitHub     : github.com/dhani748
-  Website    : anantixia.com
-```
 
 <img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
