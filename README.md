@@ -21,22 +21,57 @@
 
 ## 🖥️ System Info
 
-![System info glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/system-info-card.svg)
+```yaml
+dhananjay@dev-machine
+------------------------
+Subject      : Dhananjay Nautiyal
+Role         : Java Backend Developer
+Company      : Anantixia Pvt. Ltd.
+Origin       : India
+Education    : B.Tech, Computer Science
+Status       : Open to opportunities
+Toolchain    : Java · Spring Boot · Docker · Git
 
+Core Lang    : Java, JavaScript, TypeScript, Python, Kotlin
+Core Backend : Spring Boot, Spring Security, JPA/Hibernate, REST APIs
+Core DB      : PostgreSQL, MySQL, MongoDB, Redis
+Core Infra   : Docker, Linux, Git, CI/CD, Kafka, Kubernetes (learning)
+
+Contact
+  Gmail      : dhananjaynautiyal203@gmail.com
+  Portfolio  : dhani748.github.io/portfolio
+  LinkedIn   : linkedin.com/in/dhananjay-nautiyal
+  GitHub     : github.com/dhani748
+  Website    : anantixia.com
+```
 
 <img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 👨‍💻 About Me
 
-![About me glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/about-me-card.svg)
+🎓 Computer Science graduate passionate about **backend engineering**, clean architecture, and scalable software development.
 
+💼 Software developer at **Anantixia Pvt. Ltd.** (formerly intern).
+
+🚀 I build enterprise-grade applications using **Java, Spring Boot, PostgreSQL, Redis, Docker, JWT Authentication**, and **Microservices**.
+
+💡 I love solving real-world business problems through clean code, solid architecture, and scalable system design.
+
+🤖 Currently exploring **AI-powered applications**, **AI agents**, and distributed systems.
+
+🌱 Always learning — Spring Cloud, Kafka, Kubernetes, System Design.
 
 <img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🔥 Currently Working On
 
-![Working on glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/working-on-card.svg)
-
+- 🤖 **HCP-CRM** — AI-powered CRM platform with workflow automation
+- 💬 **Astro Talk** — real-time chat application (Java + Spring Boot)
+- 🎵 **Music** — modern multi-platform music client (Kotlin/Android, pluggable Hi-Res modules)
+- ☁️ **Spring Cloud** & distributed systems
+- 📨 **Apache Kafka** — event-driven architecture
+- 🐳 **Kubernetes** — container orchestration
+- 🧩 **System Design** — scalable architecture patterns
 
 <img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
@@ -48,7 +83,12 @@
 ### ⚙️ Backend & Frameworks
 ![Backend](https://skillicons.dev/icons?i=spring,nodejs,maven,gradle)
 
-![Tech stack glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/tech-stack-card.svg)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA Hibernate](https://img.shields.io/badge/JPA-Hibernate-success?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### 🗄️ Databases
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)
@@ -62,27 +102,55 @@
 
 ## 🏗️ Backend Expertise
 
-![Backend expertise glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/backend-expertise-card.svg)
-
+| Core Skills | Advanced Skills |
+|---|---|
+| ⚡ REST API Development | 🔐 Spring Security |
+| 🌱 Spring Boot | 🔑 JWT Authentication |
+| 🧩 Microservices | ⚡ Redis Caching |
+| 🗃️ Database Design | 📨 Kafka |
+| 🔗 Hibernate / JPA | 🧠 System Design |
+| 🐳 Docker | 🏛️ Design Patterns |
+| 🧱 Clean Architecture | 🧪 Testing |
+| ✅ SOLID Principles | 🔀 Git Workflow |
 
 <img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🌟 Featured Projects
 
-[![music glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/project-music-card.svg)](https://github.com/dhani748/music)
+### 🎵 [Music](https://github.com/dhani748/music)
+Modern multi-platform music client (YouTube Music, JioSaavn, Spotify import, local, pluggable Hi-Res modules). Rebranded from BitChord.
 
+**Tech Stack:** `Kotlin` `C++` `Go` `Java` `GPL-3.0`
 
-[![HCP-CRM glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/project-HCP-CRM-card.svg)](https://github.com/dhani748/HCP-CRM)
+<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
+### 🤖 [HCP-CRM](https://github.com/dhani748/HCP-CRM)
+AI-powered CRM platform with modern UI, authentication, dashboards, and intelligent workflow automation.
 
-[![astro-talk glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/project-astro-talk-card.svg)](https://github.com/dhani748/astro-talk)
+**Tech Stack:** `TypeScript` `React` `Node.js` `Python`
 
+<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
-[![anime-watch glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/project-anime-watch-card.svg)](https://github.com/dhani748/anime-watch)
+### 💬 [Astro Talk](https://github.com/dhani748/astro-talk)
+Real-time chat application featuring authentication, messaging, and scalable backend architecture.
 
+**Tech Stack:** `Java` `Spring Boot` `JWT` `MySQL` `TypeScript`
 
-[![smart-expense-analyzer-java21 glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/project-smart-expense-analyzer-java21-card.svg)](https://github.com/dhani748/smart-expense-analyzer-java21)
+<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
+### 📺 [Anime Watch](https://github.com/dhani748/anime-watch)
+Modern anime platform with trending anime, search, news, and responsive user experience.
+
+**Tech Stack:** `React` `JavaScript` `TypeScript` `REST APIs`
+
+<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+
+### 💰 [Smart Expense Analyzer](https://github.com/dhani748/smart-expense-analyzer-java21)
+Expense management system with analytics, reports, and financial insights.
+
+**Tech Stack:** `Java 21`
+
+<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 📊 GitHub Analytics
 
@@ -135,22 +203,35 @@
 
 ## 💼 Professional Experience
 
-![Experience glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/experience-card.svg)
-
-
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+**Software Developer** — Anantixia Pvt. Ltd.
+- Built and maintained enterprise applications using **Spring Boot** and **REST APIs**
+- Designed and implemented **microservices**-based backend modules
+- Worked with **Docker** for containerized deployments
+- Managed data persistence with **PostgreSQL** and caching with **Redis**
+- Currently contributing to **AI-powered CRM** initiatives
 
 <img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 📜 Certifications
 
-![Certifications glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/certifications-card.svg)
+- ☕ Java
+- 🌱 Spring Boot
+- 🐳 Docker
+- 🐘 PostgreSQL
+- ⚡ Redis
+- ☁️ AWS *(Learning)*
 
 <img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 📚 Currently Learning
 
-![Learning and goals glass card](https://raw.githubusercontent.com/dhani748/dhani748/main/assets/learning-goals-card.svg)
+![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![System Design](https://img.shields.io/badge/-System_Design-4B0082?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/-Distributed_Systems-orange?style=flat-square)
+![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-00BFFF?style=flat-square)
+![AI Agents](https://img.shields.io/badge/-AI_Agents-8A2BE2?style=flat-square)
 
 <img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
@@ -167,7 +248,7 @@
 
 ## ⚡ Fun Facts
 
-☕ Coffee + Coding = Perfect Day  |  ⚙️ Backend Lover  |  🌍 Open Source Enthusiast  |  📚 Always Learning  |  🤖 AI Enthusiast  |  🎵 Built a music client
+☕ Coffee + Coding = Perfect Day &nbsp;|&nbsp; ⚙️ Backend Lover &nbsp;|&nbsp; 🌍 Open Source Enthusiast &nbsp;|&nbsp; 📚 Always Learning &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🎵 Built a music client
 
 <img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
