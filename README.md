@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/js-fs.gif" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-hero.svg" width="100%" alt="Liquid glass hero header" />
 
 # Hi 👋, I'm Dhananjay Nautiyal
 
@@ -156,8 +156,8 @@ Expense management system with analytics, reports, and financial insights.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhani748&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhani748&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhani748&show_icons=true&bg_color=0b1026&title_color=7dd3fc&text_color=e0e7ff&icon_color=a78bfa&border_color=ffffff33&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhani748&layout=compact&bg_color=0b1026&title_color=f472b6&text_color=e0e7ff&border_color=ffffff33&hide_border=false"/>
 
 <img src="https://streak-stats.demolab.com?user=dhani748&theme=tokyonight&hide_border=true"/>
 
