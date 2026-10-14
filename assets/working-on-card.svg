@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="318" viewBox="0 0 800 318" role="img" aria-labelledby="title desc">
+  <title id="title">🔥 Currently Working On</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0b1026"/><stop offset="55%" stop-color="#1a1f4a"/><stop offset="100%" stop-color="#2a1748"/></linearGradient>
+    <radialGradient id="o1" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#7dd3fc" stop-opacity="0.7"/><stop offset="100%" stop-color="#7dd3fc" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f472b6" stop-opacity="0.6"/><stop offset="100%" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="22"/></filter>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.20"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/></linearGradient>
+    <linearGradient id="stroke" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0.14"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/></filter>
+  </defs>
+  <rect width="800" height="318" rx="36" fill="url(#bg)"/>
+  <g filter="url(#blur)">
+    <circle cx="140" cy="110" r="80" fill="url(#o1)"/>
+    <circle cx="660" cy="208" r="95" fill="url(#o2)"/>
+  </g>
+  <rect x="52" y="42" width="696" height="234" rx="30" fill="url(#glass)" stroke="url(#stroke)" stroke-width="1.4" filter="url(#shadow)"/>
+  <text x="70" y="86" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700" fill="#7dd3fc">🔥 Currently Working On</text>
+  <text x="70" y="108" font-family="JetBrains Mono, monospace" font-size="12" fill="#94a3b8">liquid glass card</text>
+  <text x="70" y="92" font-family="Segoe UI, sans-serif" font-size="14" fill="#f8fafc">• HCP-CRM — AI-powered CRM platform with workflow automation</text>
+  <text x="70" y="118" font-family="Segoe UI, sans-serif" font-size="14" fill="#f8fafc">• Astro Talk — real-time chat app (Java + Spring Boot)</text>
+  <text x="70" y="144" font-family="Segoe UI, sans-serif" font-size="14" fill="#f8fafc">• Music — multi-platform music client (Kotlin / Android)</text>
+  <text x="70" y="170" font-family="Segoe UI, sans-serif" font-size="14" fill="#f8fafc">• Spring Cloud &amp; distributed systems</text>
+  <text x="70" y="196" font-family="Segoe UI, sans-serif" font-size="14" fill="#f8fafc">• Apache Kafka — event-driven architecture</text>
+  <text x="70" y="222" font-family="Segoe UI, sans-serif" font-size="14" fill="#f8fafc">• Kubernetes — container orchestration</text>
+  <text x="70" y="248" font-family="Segoe UI, sans-serif" font-size="14" fill="#f8fafc">• System Design — scalable architecture patterns</text>
+</svg>
