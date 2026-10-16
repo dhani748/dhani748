@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-hero.svg" width="100%" alt="Liquid glass hero header" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-hero.svg" width="100%" alt="Liquid glass hero header" />
 
 # Hi 👋, I'm Dhananjay Nautiyal
 
@@ -9,15 +9,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Engineer;Microservices+Enthusiast;AI+Integration;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/dhani748"><img src="https://komarev.com/ghpvc/?username=dhani748&label=Profile+Views&style=for-the-badge&color=0e75b6" alt="Profile Views"/></a>
-  <a href="https://github.com/dhani748?tab=followers"><img src="https://img.shields.io/github/followers/dhani748?style=for-the-badge&color=informational&label=Followers" alt="Followers"/></a>
-  <a href="https://github.com/dhani748?tab=repositories"><img src="https://img.shields.io/github/stars/dhani748?affiliations=OWNER&style=for-the-badge&color=yellow&label=Stars" alt="Stars"/></a>
-  <a href="https://github.com/dhani748"><img src="https://img.shields.io/badge/Open_to-Opportunities-2ea44f?style=for-the-badge" alt="Open to Work"/></a>
+  <a href="https://github.com/dhananjay-nautiyal"><img src="https://komarev.com/ghpvc/?username=dhananjay-nautiyal&label=Profile+Views&style=for-the-badge&color=0e75b6" alt="Profile Views"/></a>
+  <a href="https://github.com/dhananjay-nautiyal?tab=followers"><img src="https://img.shields.io/github/followers/dhananjay-nautiyal?style=for-the-badge&color=informational&label=Followers" alt="Followers"/></a>
+  <a href="https://github.com/dhananjay-nautiyal?tab=repositories"><img src="https://img.shields.io/github/stars/dhananjay-nautiyal?affiliations=OWNER&style=for-the-badge&color=yellow&label=Stars" alt="Stars"/></a>
+  <a href="https://github.com/dhananjay-nautiyal"><img src="https://img.shields.io/badge/Open_to-Opportunities-2ea44f?style=for-the-badge" alt="Open to Work"/></a>
 </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🖥️ System Info
 
@@ -39,13 +39,13 @@ Core Infra   : Docker, Linux, Git, CI/CD, Kafka, Kubernetes (learning)
 
 Contact
   Gmail      : dhananjaynautiyal203@gmail.com
-  Portfolio  : dhani748.github.io/portfolio
+  Portfolio  : dhananjay-nautiyal.github.io/portfolio
   LinkedIn   : linkedin.com/in/dhananjay-nautiyal
-  GitHub     : github.com/dhani748
+  GitHub     : github.com/dhananjay-nautiyal
   Website    : anantixia.com
 ```
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 👨‍💻 About Me
 
@@ -61,7 +61,7 @@ Contact
 
 🌱 Always learning — Spring Cloud, Kafka, Kubernetes, System Design.
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🔥 Currently Working On
 
@@ -73,7 +73,7 @@ Contact
 - 🐳 **Kubernetes** — container orchestration
 - 🧩 **System Design** — scalable architecture patterns
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🚀 Tech Stack
 
@@ -98,7 +98,7 @@ Contact
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🏗️ Backend Expertise
 
@@ -113,93 +113,93 @@ Contact
 | 🧱 Clean Architecture | 🧪 Testing |
 | ✅ SOLID Principles | 🔀 Git Workflow |
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🌟 Featured Projects
 
-### 🎵 [Music](https://github.com/dhani748/music)
+### 🎵 [Music](https://github.com/dhananjay-nautiyal/music)
 Modern multi-platform music client (YouTube Music, JioSaavn, Spotify import, local, pluggable Hi-Res modules). Rebranded from BitChord.
 
 **Tech Stack:** `Kotlin` `C++` `Go` `Java` `GPL-3.0`
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
-### 🤖 [HCP-CRM](https://github.com/dhani748/HCP-CRM)
+### 🤖 [HCP-CRM](https://github.com/dhananjay-nautiyal/HCP-CRM)
 AI-powered CRM platform with modern UI, authentication, dashboards, and intelligent workflow automation.
 
 **Tech Stack:** `TypeScript` `React` `Node.js` `Python`
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
-### 💬 [Astro Talk](https://github.com/dhani748/astro-talk)
+### 💬 [Astro Talk](https://github.com/dhananjay-nautiyal/astro-talk)
 Real-time chat application featuring authentication, messaging, and scalable backend architecture.
 
 **Tech Stack:** `Java` `Spring Boot` `JWT` `MySQL` `TypeScript`
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
-### 📺 [Anime Watch](https://github.com/dhani748/anime-watch)
+### 📺 [Anime Watch](https://github.com/dhananjay-nautiyal/anime-watch)
 Modern anime platform with trending anime, search, news, and responsive user experience.
 
 **Tech Stack:** `React` `JavaScript` `TypeScript` `REST APIs`
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
-### 💰 [Smart Expense Analyzer](https://github.com/dhani748/smart-expense-analyzer-java21)
+### 💰 [Smart Expense Analyzer](https://github.com/dhananjay-nautiyal/smart-expense-analyzer-java21)
 Expense management system with analytics, reports, and financial insights.
 
 **Tech Stack:** `Java 21`
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhani748&show_icons=true&bg_color=0b1026&title_color=7dd3fc&text_color=e0e7ff&icon_color=a78bfa&border_color=ffffff33&hide_border=false&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhani748&layout=compact&bg_color=0b1026&title_color=f472b6&text_color=e0e7ff&border_color=ffffff33&hide_border=false"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhananjay-nautiyal&show_icons=true&bg_color=0b1026&title_color=7dd3fc&text_color=e0e7ff&icon_color=a78bfa&border_color=ffffff33&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay-nautiyal&layout=compact&bg_color=0b1026&title_color=f472b6&text_color=e0e7ff&border_color=ffffff33&hide_border=false"/>
 
-<img src="https://streak-stats.demolab.com?user=dhani748&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dhananjay-nautiyal&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhani748&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjay-nautiyal&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhani748&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dhananjay-nautiyal&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhani748/dhani748/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhani748/dhani748/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/dhani748/dhani748/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 > ⚙️ The snake animation is auto-generated by the GitHub Actions workflow in `.github/workflows/snake.yml`.
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 💼 Professional Experience
 
@@ -210,7 +210,7 @@ Expense management system with analytics, reports, and financial insights.
 - Managed data persistence with **PostgreSQL** and caching with **Redis**
 - Currently contributing to **AI-powered CRM** initiatives
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 📜 Certifications
 
@@ -221,7 +221,7 @@ Expense management system with analytics, reports, and financial insights.
 - ⚡ Redis
 - ☁️ AWS *(Learning)*
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 📚 Currently Learning
 
@@ -233,7 +233,7 @@ Expense management system with analytics, reports, and financial insights.
 ![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-00BFFF?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-8A2BE2?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🎯 2026 Goals
 
@@ -244,27 +244,27 @@ Expense management system with analytics, reports, and financial insights.
 - [ ] Learn AWS
 - [ ] Become a Senior Backend Engineer
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## ⚡ Fun Facts
 
 ☕ Coffee + Coding = Perfect Day &nbsp;|&nbsp; ⚙️ Backend Lover &nbsp;|&nbsp; 🌍 Open Source Enthusiast &nbsp;|&nbsp; 📚 Always Learning &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🎵 Built a music client
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🌍 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhananjay-nautiyal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhani748)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhananjay-nautiyal)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhananjaynautiyal203@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhani748.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhananjay-nautiyal.github.io/portfolio)
 [![Website](https://img.shields.io/badge/Anantixia-0A66C2?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://anantixia.com)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 🙌 Support
 
@@ -272,7 +272,7 @@ Expense management system with analytics, reports, and financial insights.
 🍴 **Fork** projects you'd like to build on
 👤 **Follow** me for more backend engineering content
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 ## 💡 Favorite Quote
 
@@ -298,7 +298,7 @@ public class Developer {
 }
 ```
 
-<img src="https://raw.githubusercontent.com/dhani748/dhani748/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
+<img src="https://raw.githubusercontent.com/dhananjay-nautiyal/dhananjay-nautiyal/main/assets/liquid-glass-divider.svg" width="100%" alt="liquid glass divider" />
 
 <div align="center">
 
